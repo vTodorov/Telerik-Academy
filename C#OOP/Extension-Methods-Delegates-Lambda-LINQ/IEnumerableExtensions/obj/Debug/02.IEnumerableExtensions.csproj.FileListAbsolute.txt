@@ -1,0 +1,11 @@
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.csprojResolveAssemblyReference.cache

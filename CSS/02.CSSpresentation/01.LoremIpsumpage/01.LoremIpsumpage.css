@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Edwardian Script ITC;
+    src: url(ITCEDSCR.TTF);
+}
+
+body{
+font-family:Consolas, Edwardian Script ITC;
+color:#0094ff;
+font-size:1.2em;
+}
+p:first-letter{
+text-transform:uppercase;
+font-family:"Edwardian Script ITC";
+font-size:3em;
+}

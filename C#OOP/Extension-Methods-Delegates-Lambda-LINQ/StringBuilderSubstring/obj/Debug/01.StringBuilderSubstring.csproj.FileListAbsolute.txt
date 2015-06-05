@@ -1,0 +1,9 @@
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\obj\Debug\01.StringBuilderSubstring.csprojResolveAssemblyReference.cache
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\bin\Debug\StringBuilderSubstring.exe.config
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\bin\Debug\StringBuilderSubstring.exe
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\bin\Debug\StringBuilderSubstring.pdb
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\obj\Debug\StringBuilderSubstring.exe
+D:\TerelikAcademy\OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\obj\Debug\StringBuilderSubstring.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\bin\Debug\StringBuilderSubstring.exe.config
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\obj\Debug\StringBuilderSubstring.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StringBuilderSubstring\obj\Debug\StringBuilderSubstring.pdb

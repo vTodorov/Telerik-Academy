@@ -1,0 +1,3 @@
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\ClassTimer\bin\Debug\ClassTimer.exe.config
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\ClassTimer\obj\Debug\ClassTimer.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\ClassTimer\obj\Debug\ClassTimer.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\bin\Debug\DivisibleBy7and3.exe.config
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\bin\Debug\DivisibleBy7and3.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\bin\Debug\DivisibleBy7and3.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\obj\Debug\DivisibleBy7and3.csprojResolveAssemblyReference.cache
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\obj\Debug\DivisibleBy7and3.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\DivisibleBy7and3\obj\Debug\DivisibleBy7and3.pdb

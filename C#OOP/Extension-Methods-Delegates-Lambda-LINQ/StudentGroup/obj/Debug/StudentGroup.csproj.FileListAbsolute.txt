@@ -1,0 +1,6 @@
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\bin\Debug\StudentGroup.exe.config
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\obj\Debug\StudentGroup.csprojResolveAssemblyReference.cache
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\bin\Debug\StudentGroup.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\bin\Debug\StudentGroup.pdb
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\obj\Debug\StudentGroup.exe
+D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\StudentGroup\obj\Debug\StudentGroup.pdb

@@ -1,0 +1,5 @@
+D:\terelik\oop\DefiningClassesPart1\DefineClass\bin\Debug\DefineClass.exe
+D:\terelik\oop\DefiningClassesPart1\DefineClass\bin\Debug\DefineClass.pdb
+D:\terelik\oop\DefiningClassesPart1\DefineClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\terelik\oop\DefiningClassesPart1\DefineClass\obj\x86\Debug\DefineClass.exe
+D:\terelik\oop\DefiningClassesPart1\DefineClass\obj\x86\Debug\DefineClass.pdb

@@ -1,0 +1,1 @@
+D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title of the document</title>
+</head>
+<body>
+    <form method="post" action="#">
+    <table border="1" cellpadding="1" cellspacing="0">
+        <tr>
+            <td>
+                <label>
+                    Last Name</label>
+            </td>
+            <td>
+                <input type="text" name="Last Name" value="" size="30" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    First Name</label>
+            </td>
+            <td>
+                <input type="text" name="First Name" value="" size="30" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Address</label>
+            </td>
+            <td>
+                <textarea name="Addres" rows="4" cols="30"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    City</label>
+            </td>
+            <td>
+                <input type="text" name="City" value="" /><label>State</label><input type="text"
+                    name="state" value="" size="4" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Zip/Postal Code</label>
+            </td>
+            <td>
+                <input type="text" name="ZipCode" value="" size="6" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Country</label>
+            </td>
+            <td>
+                <select name="Country">
+                    <option value="Bulgaria">Bulgaria</option>
+                    <option value="Kazahstan">Kazahstan</option>
+                    <option value="Kazahstan">Kazahstan</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Phone(country code,<br />
+                    area code, number)</label>
+            </td>
+            <td>
+                (+<input type="tel" name="CountryCode" value="" size="3" />
+                )
+                <input type="tel" name="AreaCode" value="" size="3" />
+                <input type="tel" name="Number" value="" size="11" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    E-mail</label>
+            </td>
+            <td>
+                <input type="email" name="Email" value="" size="30" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Birth date</label>
+            </td>
+            <td>
+                <input type="date" name="BirthDayDate" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Gander</label>
+            </td>
+            <td>
+                <select name="Gander">
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Both">Both</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Starting date</label>
+            </td>
+            <td>
+                <input type="radio" name="StartingDate" value="Spring2015" id="Spring2015" /><label
+                    for="Spring2015">Spring 2015</label>
+                <input type="radio" name="StartingDate" value="Summer2015" id="Summer2015" /><label
+                    for="Summer2015">Summer 2015</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Comments/Questions</label>
+            </td>
+            <td>
+                <textarea name="Comment" rows="5" cols="30"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center" bgcolor="#87CEEB">
+                <input type="submit" name="submit" /><input type="reset" />
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

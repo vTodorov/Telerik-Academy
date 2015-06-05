@@ -1,0 +1,6 @@
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe.config
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.pdb
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\obj\Debug\03.ReadFileContents.csprojResolveAssemblyReference.cache
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.exe
+D:\TerelikAcademy\c#2\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.pdb

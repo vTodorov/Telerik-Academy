@@ -1,6 +1,0 @@
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
-D:\TerelikAcademy\c#2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

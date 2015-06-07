@@ -1,6 +1,0 @@
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\bin\Debug\Download ile.exe.config
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\bin\Debug\Download ile.exe
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\bin\Debug\Download ile.pdb
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\obj\Debug\Download ile.exe
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\obj\Debug\Download ile.pdb
-D:\TerelikAcademy\c#2\ExceptionHandling\Download ile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache

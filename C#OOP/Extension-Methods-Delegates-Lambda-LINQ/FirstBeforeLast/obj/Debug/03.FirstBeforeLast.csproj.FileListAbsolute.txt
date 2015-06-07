@@ -1,6 +1,0 @@
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe.config
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.pdb
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.exe
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.pdb
-D:\CSharp\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\03.FirstBeforeLast.csprojResolveAssemblyReference.cache
